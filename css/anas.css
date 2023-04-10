@@ -504,7 +504,7 @@ input{
    
 }
 video{
-    width: 70vh;
+    width: 40vh;
   
     
    
@@ -913,6 +913,7 @@ video{
     video{
        
         margin-left: 4rem;
+        width:70vh;
      }
      .video-button{
         left: 8rem;
